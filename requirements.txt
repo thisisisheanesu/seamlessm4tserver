@@ -1,0 +1,7 @@
+Flask==2.0.3
+torch==1.12.1 
+transformers==4.21.1
+pydub==0.25.1
+soundfile==0.10.3
+SpeechRecognition==3.8.1
+gtts==2.2.3
